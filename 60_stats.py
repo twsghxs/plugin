@@ -1,4 +1,3 @@
-$ cat git_repo/60_stats.py 
 #!/usr/bin/python
 
 import time
